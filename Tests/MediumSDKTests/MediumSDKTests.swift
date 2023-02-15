@@ -6,6 +6,6 @@ final class MediumSDKTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(MediumSDK().text, "Hello, World!")
+		XCTAssertEqual(MediumSDK.text, "Hello, World!")
     }
 }
