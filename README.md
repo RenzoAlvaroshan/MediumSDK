@@ -1,3 +1,3 @@
 # MediumSDK
 
-A description of this package.
+A simple SDK to present a WKWebView.
